@@ -1,0 +1,3 @@
+基于SSM+AmazeUI齐齐哈尔电力培训中心管理系统
+其中包括使用poi来进行excel的导入导出，freemaker进行文档的生成
+开发环境为eclipse并且需要集成maven环境，导入数据库后，即可使用本系统
